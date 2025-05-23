@@ -1,6 +1,8 @@
 import streamlit as st
 
 st.title("Rule")
+st.header("00. Caution")
+st.text("You are responsible for any problems that arise from following the instructions in this guide.")
 st.header("01. Select Target")
 st.text("You need to select a target in order to destroy your school.")
 st.text("The more important your target is, the better.")
