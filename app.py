@@ -9,6 +9,6 @@ st.text("Observe your target in order to find the day you can get access to your
 st.header("03. Get Ready")
 st.text("Select the date you can destroy data without anyone knowing.")
 st.text("Find the way to get into your target's seat.")
-st.text("Prepare Virus that can destroy all the data, or some other way to physically destroy data.")
+st.text("Prepare Virus that can destroy all the data, or some other ways to physically destroy data.")
 st.header("04. Destroy")
 st.text("You're ready. Tools are set. Now, do your job.")
